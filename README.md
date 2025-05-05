@@ -18,7 +18,7 @@ For a more in depth blog on working with remix, [read here](https://docs.chain.l
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
+If you appreciated this, feel free to follow me or donate!..
 
 ETH/zkSync/Arbitrum/Optimism/etc Address: `cyfrin1.eth`: 0x3846c3A30E62075Fa916216b35EF04B8F53931f6 (Confirm the ENS matches the address!)
 
